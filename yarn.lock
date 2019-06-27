@@ -3009,6 +3009,11 @@ flow-copy-source@^2.0.2:
     kefir "^3.7.3"
     yargs "^12.0.1"
 
+fluent-syntax@^0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/fluent-syntax/-/fluent-syntax-0.13.0.tgz#417144d99cba94ff474c422b3e6623d5a842855a"
+  integrity sha512-0Bk1AsliuYB550zr4JV9AYhsETsD3ELXUQzdXGJfIc1Ni/ukAfBdQInDhVMYJUaT2QxoamNslwkYF7MlOrPUwg==
+
 flush-write-stream@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/flush-write-stream/-/flush-write-stream-1.0.3.tgz#c5d586ef38af6097650b49bc41b55fabb19f35bd"

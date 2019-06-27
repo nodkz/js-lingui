@@ -8,7 +8,7 @@ export type LinguiConfig = {|
   pseudoLocale: string,
   srcPathDirs: Array<string>,
   srcPathIgnorePatterns: Array<string>,
-  format: "lingui" | "minimal" | "po"
+  format: "lingui" | "minimal" | "po" | "fluent"
 |}
 
 export type IdempotentResult<T> = [boolean, ?T] // [ created, result ]
